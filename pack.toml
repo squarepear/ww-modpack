@@ -1,0 +1,13 @@
+name = "Whimsy World"
+author = "squarepear"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "699bdac5352f830a57ca5755d4792e281a4b49139a7f4c012b94814c0e3e990d"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"
